@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maadhuhvn.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/maadhuhvn.github.io/static/js/main.843df3e1.js",
+    "static/js/453.aac68abc.chunk.js": "/maadhuhvn.github.io/static/js/453.aac68abc.chunk.js",
+    "static/media/profile.jpg": "/maadhuhvn.github.io/static/media/profile.3f7a2dabb579a632a191.jpg",
+    "index.html": "/maadhuhvn.github.io/index.html",
+    "main.e6c13ad2.css.map": "/maadhuhvn.github.io/static/css/main.e6c13ad2.css.map",
+    "main.843df3e1.js.map": "/maadhuhvn.github.io/static/js/main.843df3e1.js.map",
+    "453.aac68abc.chunk.js.map": "/maadhuhvn.github.io/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.843df3e1.js"
+  ]
+}
